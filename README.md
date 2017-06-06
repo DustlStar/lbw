@@ -1,2 +1,2 @@
 # lbw
-     --a blog page
+     --The blog page
